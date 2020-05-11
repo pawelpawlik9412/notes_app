@@ -20,7 +20,13 @@ samples, guidance on mobile development, and a full API reference.
 
 1. iPhone layout (portrait and landscape)
 
-![Note App](gif/Portrait-iPhone.gif)
+![Note App](https://github.com/pawelpawlik9412/images/blob/master/notes_app/Portrait-iPhone.gif)
 
-![Note App](gif/Landscape-iPhone.gif)
+![Note App](https://github.com/pawelpawlik9412/images/blob/master/notes_app/Landscape-iPhone.gif)
 
+
+2. iPad layout (portrait and landscape)
+
+![Note App](https://github.com/pawelpawlik9412/images/blob/master/notes_app/Portrait%20-%20iPad.gif)
+
+![Note App](https://github.com/pawelpawlik9412/images/blob/master/notes_app/Landscape%20-%20iPad.gif)
