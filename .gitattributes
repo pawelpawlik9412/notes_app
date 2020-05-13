@@ -1,0 +1,2 @@
+# .gitattributes file which reclassifies `.dart` files as Java:
+*.dart linguist-language=Dart
